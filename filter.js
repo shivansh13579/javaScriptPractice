@@ -42,4 +42,4 @@ edition : 2001},
 // const users = books.filter((bk)=>bk.genere === 'History')
 const users = books.filter((bk)=>bk.Published>=2000 && bk.genere === 'History')
 
-console.log(users);
+// console.log(users);

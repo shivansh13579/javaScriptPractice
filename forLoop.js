@@ -55,5 +55,5 @@ map.set("USA","United State Of America")
 map.set("Fr","France")
 
 for(const key1 in map){
-    console.log(key1);
+    // console.log(key1);
 }
